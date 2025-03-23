@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "opera-omnia": {
+      "command": "node",
+      "args": ["C:/Users/tript/Documents/opera omnia mcp/build/index.js"],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
