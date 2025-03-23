@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "node",
+      "args": ["C:\\Users\\tript\\Documents\\Cline\\MCP\\github-server\\build\\index.js"]
+    },
+    "github.com/pashpashpash/perplexity-mcp": {
+      "command": "node",
+      "args": ["C:\\Users\\tript\\OneDrive\\Documents\\Cline\\MCP\\perplexity-mcp\\build\\index.js"],
+      "env": {
+        "PERPLEXITY_API_KEY": "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"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "opera-omnia": {
+      "command": "node",
+      "args": ["C:\\Users\\tript\\Documents\\opera omnia mcp\\build\\index.js"],
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

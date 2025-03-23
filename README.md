@@ -199,6 +199,26 @@ const result = await access_mcp_resource({
 });
 ```
 
+## Future Enhancements
+
+We have several ideas for future enhancements to the Opera Omnia MCP server:
+
+1. **Advanced Content Generation**: Add more sophisticated content generation capabilities beyond simple template substitution.
+
+2. **Improved Caching**: Implement better caching mechanisms for improved performance, especially for frequently accessed datasets.
+
+3. **User-Contributed Datasets**: Add support for user-contributed datasets, allowing users to extend the available content.
+
+4. **Visualization Tools**: Create visualization tools for exploring the data and understanding relationships between different datasets.
+
+5. **Local Data Files**: Add support for local data files as an alternative to fetching from GitHub.
+
+6. **Integration Examples**: Provide more examples of integrating the MCP server with different applications and frameworks.
+
+## Release Notes
+
+For detailed information about the current and past releases, see the [RELEASE_NOTES.md](RELEASE_NOTES.md) file.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

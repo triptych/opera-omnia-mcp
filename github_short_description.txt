@@ -1,0 +1,1 @@
+MCP server providing access to Opera Omnia datasets for creative content generation in games, storytelling, and AI applications. Enables easy access to characters, equipment, RPG elements, and more through a clean API designed for Claude integration.
